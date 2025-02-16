@@ -1,5 +1,5 @@
-#Stuff done:
+# Stuff done:
 -Preprocessing using OCR
 
-#Stuff left (so far):
+# Stuff left (so far):
 -indexing
