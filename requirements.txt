@@ -1,0 +1,11 @@
+streamlit
+openai==0.28
+faiss-cpu
+sentence-transformers
+scikit-learn
+python-dotenv
+transformers
+rouge
+nltk
+bert-score
+
